@@ -9,7 +9,7 @@ Job seekers can see information about companies and other job seekers or edit ow
 
 ===========================================================
 
-Installation guide:
+# Installation guide:
 create virtualenv and activate
 
 pip install -r requirements.txt
